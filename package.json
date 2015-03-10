@@ -1,6 +1,6 @@
 {
   "name": "fgrep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search for a given string in specified files.",
   "main": "fgrep.js",
   "directories": {
