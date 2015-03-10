@@ -1,0 +1,29 @@
+{
+  "name": "fgrep",
+  "version": "0.0.0",
+  "description": "Search for a given string in specified files.",
+  "main": "fgrep.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaacs/fgrep"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacs/fgrep/issues"
+  },
+  "homepage": "https://github.com/isaacs/fgrep",
+  "devDependencies": {
+    "glob": "^4.5.1",
+    "tap": "^0.7.1"
+  },
+  "dependencies": {
+    "byline": "^4.2.1"
+  }
+}
