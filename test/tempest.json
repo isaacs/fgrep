@@ -1,0 +1,344 @@
+{
+  "fixtures/1henryiv.html": [
+    {
+      "filename": "fixtures/1henryiv.html",
+      "lineNumber": 4701,
+      "line": "<A NAME=5.1.7>Foretells a tempest and a blustering day.</A><br>"
+    }
+  ],
+  "fixtures/1henryvi.html": [
+    {
+      "filename": "fixtures/1henryvi.html",
+      "lineNumber": 4873,
+      "line": "<A NAME=5.5.5>And like as rigor of tempestuous gusts</A><br>"
+    }
+  ],
+  "fixtures/2henryiv.html": [
+    {
+      "filename": "fixtures/2henryiv.html",
+      "lineNumber": 1139,
+      "line": "<A NAME=2.1.72>temper would endure this tempest of exclamation?</A><br>"
+    },
+    {
+      "filename": "fixtures/2henryiv.html",
+      "lineNumber": 2579,
+      "line": "<A NAME=2.4.342>When tempest of commotion, like the south</A><br>"
+    }
+  ],
+  "fixtures/2henryvi.html": [
+    {
+      "filename": "fixtures/2henryvi.html",
+      "lineNumber": 2800,
+      "line": "<A NAME=3.1.355>And this fell tempest shall not cease to rage</A><br>"
+    },
+    {
+      "filename": "fixtures/2henryvi.html",
+      "lineNumber": 3027,
+      "line": "<A NAME=3.2.103>When from thy shore the tempest beat us back,</A><br>"
+    },
+    {
+      "filename": "fixtures/2henryvi.html",
+      "lineNumber": 3131,
+      "line": "<A NAME=3.2.177>Like to the summer's corn by tempest lodged.</A><br>"
+    },
+    {
+      "filename": "fixtures/2henryvi.html",
+      "lineNumber": 4967,
+      "line": "<A NAME=4.9.32>Like to a ship that, having 'scaped a tempest,</A><br>"
+    },
+    {
+      "filename": "fixtures/2henryvi.html",
+      "lineNumber": 5506,
+      "line": "<A NAME=5.1.199>To keep thee from the tempest of the field.</A><br>"
+    }
+  ],
+  "fixtures/3henryvi.html": [
+    {
+      "filename": "fixtures/3henryvi.html",
+      "lineNumber": 2091,
+      "line": "<A NAME=2.5.86>Blown with the windy tempest of my heart,</A><br>"
+    },
+    {
+      "filename": "fixtures/3henryvi.html",
+      "lineNumber": 5512,
+      "line": "<A NAME=5.6.46>Dogs howl'd, and hideous tempest shook down trees;</A><br>"
+    }
+  ],
+  "fixtures/RapeOfLucrece.html": [
+    {
+      "filename": "fixtures/RapeOfLucrece.html",
+      "lineNumber": 2364,
+      "line": "This windy tempest, till it blow up rain,<BR>"
+    }
+  ],
+  "fixtures/VenusAndAdonis.html": [
+    {
+      "filename": "fixtures/VenusAndAdonis.html",
+      "lineNumber": 346,
+      "line": "To shelter thee from tempest and from rain<BR>"
+    },
+    {
+      "filename": "fixtures/VenusAndAdonis.html",
+      "lineNumber": 635,
+      "line": "Wreck to the seaman, tempest to the field,<BR>"
+    },
+    {
+      "filename": "fixtures/VenusAndAdonis.html",
+      "lineNumber": 1098,
+      "line": "But Lust's effect is tempest after sun;<BR>"
+    }
+  ],
+  "fixtures/cleopatra.html": [
+    {
+      "filename": "fixtures/cleopatra.html",
+      "lineNumber": 563,
+      "line": "<A NAME=1.2.156>storms and tempests than almanacs can report: this</A><br>"
+    }
+  ],
+  "fixtures/hamlet.html": [
+    {
+      "filename": "fixtures/hamlet.html",
+      "lineNumber": 3485,
+      "line": "<A NAME=3.2.6>for in the very torrent, tempest, and, as I may say,</A><br>"
+    }
+  ],
+  "fixtures/henryv.html": [
+    {
+      "filename": "fixtures/henryv.html",
+      "lineNumber": 1532,
+      "line": "<A NAME=2.4.103>Therefore in fierce tempest is he coming,</A><br>"
+    }
+  ],
+  "fixtures/henryviii.html": [
+    {
+      "filename": "fixtures/henryviii.html",
+      "lineNumber": 224,
+      "line": "<A NAME=1.1.107>Into a general prophecy; That this tempest,</A><br>"
+    },
+    {
+      "filename": "fixtures/henryviii.html",
+      "lineNumber": 4023,
+      "line": "<A NAME=4.1.115>As the shrouds make at sea in a stiff tempest,</A><br>"
+    }
+  ],
+  "fixtures/john.html": [
+    {
+      "filename": "fixtures/john.html",
+      "lineNumber": 2225,
+      "line": "<A NAME=3.4.1>So, by a roaring tempest on the flood,</A><br>"
+    },
+    {
+      "filename": "fixtures/john.html",
+      "lineNumber": 3566,
+      "line": "<A NAME=4.3.163>Hold out this tempest. Bear away that child</A><br>"
+    },
+    {
+      "filename": "fixtures/john.html",
+      "lineNumber": 3606,
+      "line": "<A NAME=5.1.18>It was my breath that blew this tempest up,</A><br>"
+    },
+    {
+      "filename": "fixtures/john.html",
+      "lineNumber": 3765,
+      "line": "<A NAME=5.2.50>This shower, blown up by tempest of the soul,</A><br>"
+    }
+  ],
+  "fixtures/julius_caesar.html": [
+    {
+      "filename": "fixtures/julius_caesar.html",
+      "lineNumber": 773,
+      "line": "<A NAME=1.3.5>I have seen tempests, when the scolding winds</A><br>"
+    },
+    {
+      "filename": "fixtures/julius_caesar.html",
+      "lineNumber": 778,
+      "line": "<A NAME=1.3.10>Did I go through a tempest dropping fire.</A><br>"
+    }
+  ],
+  "fixtures/lear.html": [
+    {
+      "filename": "fixtures/lear.html",
+      "lineNumber": 3153,
+      "line": "<p><i>Storm and tempest</i></p>"
+    },
+    {
+      "filename": "fixtures/lear.html",
+      "lineNumber": 3419,
+      "line": "<A NAME=3.2.64>Some friendship will it lend you 'gainst the tempest:</A><br>"
+    },
+    {
+      "filename": "fixtures/lear.html",
+      "lineNumber": 3550,
+      "line": "<A NAME=3.4.15>The body's delicate: the tempest in my mind</A><br>"
+    },
+    {
+      "filename": "fixtures/lear.html",
+      "lineNumber": 3569,
+      "line": "<A NAME=3.4.28>This tempest will not give me leave to ponder</A><br>"
+    }
+  ],
+  "fixtures/macbeth.html": [
+    {
+      "filename": "fixtures/macbeth.html",
+      "lineNumber": 257,
+      "line": "<A NAME=1.3.26>Yet it shall be tempest-tost.</A><br>"
+    }
+  ],
+  "fixtures/merry_wives.html": [
+    {
+      "filename": "fixtures/merry_wives.html",
+      "lineNumber": 1426,
+      "line": "<A NAME=2.1.57>the tune of 'Green Sleeves.' What tempest, I trow,</A><br>"
+    },
+    {
+      "filename": "fixtures/merry_wives.html",
+      "lineNumber": 5513,
+      "line": "<A NAME=5.5.21>there come a tempest of provocation, I will shelter me here.</A><br>"
+    }
+  ],
+  "fixtures/midsummer.html": [
+    {
+      "filename": "fixtures/midsummer.html",
+      "lineNumber": 227,
+      "line": "<A NAME=1.1.133>Beteem them from the tempest of my eyes.</A><br>"
+    }
+  ],
+  "fixtures/othello.html": [
+    {
+      "filename": "fixtures/othello.html",
+      "lineNumber": 1326,
+      "line": "<A NAME=2.1.22>The desperate tempest hath so bang'd the Turks,</A><br>"
+    },
+    {
+      "filename": "fixtures/othello.html",
+      "lineNumber": 1352,
+      "line": "<A NAME=2.1.36>With foul and violent tempest.</A><br>"
+    },
+    {
+      "filename": "fixtures/othello.html",
+      "lineNumber": 1702,
+      "line": "<A NAME=2.1.199>If after every tempest come such calms,</A><br>"
+    }
+  ],
+  "fixtures/pericles.html": [
+    {
+      "filename": "fixtures/pericles.html",
+      "lineNumber": 493,
+      "line": "<A NAME=1.2.107>How I might stop this tempest ere it came;</A><br>"
+    },
+    {
+      "filename": "fixtures/pericles.html",
+      "lineNumber": 1956,
+      "line": "<A NAME=3.5.147>Disgorges such a tempest forth,</A><br>"
+    },
+    {
+      "filename": "fixtures/pericles.html",
+      "lineNumber": 2597,
+      "line": "<A NAME=4.1.19>Born in a tempest, when my mother died,</A><br>"
+    },
+    {
+      "filename": "fixtures/pericles.html",
+      "lineNumber": 3260,
+      "line": "<A NAME=4.3.91>A tempest, which his mortal vessel tears,</A><br>"
+    },
+    {
+      "filename": "fixtures/pericles.html",
+      "lineNumber": 4482,
+      "line": "<A NAME=5.3.40>Like him you are: did you not name a tempest,</A><br>"
+    }
+  ],
+  "fixtures/richardii.html": [
+    {
+      "filename": "fixtures/richardii.html",
+      "lineNumber": 713,
+      "line": "<A NAME=1.3.187>This louring tempest of your home-bred hate;</A><br>"
+    },
+    {
+      "filename": "fixtures/richardii.html",
+      "lineNumber": 1462,
+      "line": "<A NAME=2.1.265>But, lords, we hear this fearful tempest sing,</A><br>"
+    },
+    {
+      "filename": "fixtures/richardii.html",
+      "lineNumber": 2613,
+      "line": "<A NAME=3.3.48>It is, such crimson tempest should bedrench</A><br>"
+    }
+  ],
+  "fixtures/richardiii.html": [
+    {
+      "filename": "fixtures/richardiii.html",
+      "lineNumber": 1611,
+      "line": "<A NAME=1.4.44>O, then began the tempest to my soul,</A><br>"
+    },
+    {
+      "filename": "fixtures/richardiii.html",
+      "lineNumber": 6365,
+      "line": "<A NAME=4.4.543>The Breton navy is dispersed by tempest:</A><br>"
+    }
+  ],
+  "fixtures/romeo_juliet.html": [
+    {
+      "filename": "fixtures/romeo_juliet.html",
+      "lineNumber": 4147,
+      "line": "<A NAME=3.5.141>Thy tempest-tossed body. How now, wife!</A><br>"
+    }
+  ],
+  "fixtures/sonnet.CXVI.html": [
+    {
+      "filename": "fixtures/sonnet.CXVI.html",
+      "lineNumber": 8,
+      "line": "That looks on tempests and is never shaken;<BR>"
+    }
+  ],
+  "fixtures/tempest.html": [
+    {
+      "filename": "fixtures/tempest.html",
+      "lineNumber": 16,
+      "line": "    | <A href=\"/tempest/\">The Tempest</A> "
+    },
+    {
+      "filename": "fixtures/tempest.html",
+      "lineNumber": 20,
+      "line": "<h3>SCENE I. On a ship at sea: a tempestuous noise</h3>"
+    },
+    {
+      "filename": "fixtures/tempest.html",
+      "lineNumber": 549,
+      "line": "<A NAME=1.2.225>Perform'd to point the tempest that I bade thee?</A><br>"
+    },
+    {
+      "filename": "fixtures/tempest.html",
+      "lineNumber": 3742,
+      "line": "<A NAME=5.1.7>When first I raised the tempest. Say, my spirit,</A><br>"
+    },
+    {
+      "filename": "fixtures/tempest.html",
+      "lineNumber": 3983,
+      "line": "<A NAME=5.1.170>In this last tempest. I perceive these lords</A><br>"
+    }
+  ],
+  "fixtures/titus.html": [
+    {
+      "filename": "fixtures/titus.html",
+      "lineNumber": 820,
+      "line": "<A NAME=1.1.465>That dies in tempest of thy angry frown.</A><br>"
+    },
+    {
+      "filename": "fixtures/titus.html",
+      "lineNumber": 3049,
+      "line": "<A NAME=4.2.163>To calm this tempest whirling in the court;</A><br>"
+    },
+    {
+      "filename": "fixtures/titus.html",
+      "lineNumber": 4282,
+      "line": "<A NAME=5.3.70>Scatter'd by winds and high tempestuous gusts,</A><br>"
+    }
+  ],
+  "fixtures/troilus_cressida.html": [
+    {
+      "filename": "fixtures/troilus_cressida.html",
+      "lineNumber": 1045,
+      "line": "<A NAME=1.3.26>But, in the wind and tempest of her frown,</A><br>"
+    }
+  ]
+}
