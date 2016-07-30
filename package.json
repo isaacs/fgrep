@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/isaacs/fgrep",
   "devDependencies": {
-    "glob": "^4.5.1",
-    "tap": "^1.2.0"
+    "glob": "^7.0.5",
+    "tap": "^6.2.0"
   },
   "dependencies": {
-    "byline": "^4.2.1"
+    "byline": "^5.0.0"
   },
   "files": [
     "fgrep.js"
