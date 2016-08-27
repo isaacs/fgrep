@@ -21,7 +21,7 @@
   "homepage": "https://github.com/isaacs/fgrep",
   "devDependencies": {
     "glob": "^4.5.1",
-    "tap": "^1.2.0"
+    "tap": "^7.0.0"
   },
   "dependencies": {
     "byline": "^4.2.1"
