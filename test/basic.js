@@ -4,7 +4,6 @@ var glob = require('glob')
 process.chdir(__dirname)
 var corpus = glob.sync('fixtures/*.html')
 
-
 test('limit=2 nocase=true', function (t) {
   var expect = require('./tempest-nocase.json')
   var actual = {}
@@ -73,4 +72,26 @@ test('limit=20', function (t) {
       t.same(actual, expect)
       t.end()
     })
+})
+
+test('single filename', function (t) {
+  var expect = require('./tempest.json')['fixtures/1henryiv.html']
+  var actual = []
+  fgrep('tempest', 'fixtures/1henryiv.html', { limit: 20 })
+    .on('data', function (match) {
+      actual.push(match)
+    })
+    .on('end', function () {
+      t.same(actual, expect)
+      t.end()
+    })
+})
+
+test('throw on file specified multiple times', function (t) {
+  var expectError = new Error(
+    'file specified multiple times: fixtures/1henryiv.html')
+  t.throws(() => {
+    fgrep('tempest', ['fixtures/1henryiv.html', 'fixtures/1henryiv.html'])
+  }, expectError)
+  t.end()
 })

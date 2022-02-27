@@ -70,6 +70,7 @@ FGrep.prototype._process = function () {
         line: line
       }
 
+      /* istanbul ignore if */
       if (!self.push(match)) {
         for (var i in self.processing)
           self.processing[i].pause()
@@ -77,6 +78,7 @@ FGrep.prototype._process = function () {
     }
   })
 
+  /* istanbul ignore next */
   fstream.on('error', function (er) {
     delete self.processing[filename]
     self.emit('error', er)
